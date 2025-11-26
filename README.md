@@ -33,6 +33,6 @@
 
 <div align="left" style="margin-top: 50px;">
   <a href="https://leetcode.com/u/Logha_Surya/">
-    <img src="https://leetcard.jacoblin.cool/Logha_Surya?ext=contest&theme=gradient" />
+    <img src="https://leetcard.jacoblin.cool/Logha_Surya?ext=contest&theme=dark" />
   </a>
 </div>
