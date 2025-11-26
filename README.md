@@ -31,8 +31,8 @@
 </div>
 
 
-<div align="center">
-  <a href="https://leetcode.com/u/KIRANPALANIR/">
+<div align="center" style="margin-top: 20px;">
+  <a href="https://leetcode.com/u/Logha_Surya/">
     <img src="https://leetcard.jacoblin.cool/Logha_Surya?ext=contest&theme=neon" />
   </a>
 </div>
