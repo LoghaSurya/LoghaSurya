@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Surya
 
 - 🔭 Here's my [portfolio](https://freelancer-40c45.web.app/)
 - 🌱 Exploring DSA, DevOps practices, and Cybersecurity to strengthen my engineering skill set.
@@ -10,3 +10,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+### I code in
+<div align="left">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  
+</div>
+
