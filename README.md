@@ -32,6 +32,6 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/KIRANPALANIR/">
-    <img src="https://leetcard.jacoblin.cool/Logha_Surya?ext=contest&theme=dark" />
+    <img src="https://leetcard.jacoblin.cool/Logha_Surya?ext=contest&theme=neon" />
   </a>
 </div>
